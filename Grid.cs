@@ -1,12 +1,18 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Practicum
+﻿namespace Practicum
 {
-    internal class Grid
+    public class Grid
     {
+        private int width;
+        public int Width { get; set; }
+
+        private int height;
+        public int Height { get; set; }
+
+
+        public Grid(int width, int height)
+        {
+            this.width = width;
+            this.height = height;
+        }
     }
 }
