@@ -7,8 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practicum", "Practicum.cspr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject", "..\TestProject\TestProject.csproj", "{56D07011-5E50-4933-86E7-F1D46BCB0280}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MSOPracticum", "MSOPracticum", "{85433C7F-01EC-4199-AF83-7E852DEE67D3}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,10 +24,6 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{B6A20D63-B64C-45D3-922B-A824BD31FC8B} = {85433C7F-01EC-4199-AF83-7E852DEE67D3}
-		{56D07011-5E50-4933-86E7-F1D46BCB0280} = {85433C7F-01EC-4199-AF83-7E852DEE67D3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F8362182-7844-41DD-8C32-23763A6EB5DF}
