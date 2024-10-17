@@ -1,4 +1,4 @@
-﻿namespace MSOPracticum
+﻿namespace Practicum
 {
     public class Character
     {

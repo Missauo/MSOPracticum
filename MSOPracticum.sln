@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSOPracticum", "MSOPracticum.csproj", "{B6A20D63-B64C-45D3-922B-A824BD31FC8B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practicum", "Practicum.csproj", "{B6A20D63-B64C-45D3-922B-A824BD31FC8B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "..\TestProject\TestProject.csproj", "{56D07011-5E50-4933-86E7-F1D46BCB0280}"
 EndProject
