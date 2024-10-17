@@ -5,7 +5,7 @@ namespace Practicum
 {
     public class Application
     {
-        private Program _program;
+        public Program _program;
         private Character _character;
         private Grid _grid;
 
